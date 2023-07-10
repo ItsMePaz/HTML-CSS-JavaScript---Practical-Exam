@@ -3,6 +3,8 @@
 The goal is to recreate the animation direction video using HTML/CSS/JS with the images you have extracted. Make sure that your output’s animations and timings match the animation direction video.
 
 **Limitations**
+
+
 Background image is visible on load.
 
 Female character fades in.
