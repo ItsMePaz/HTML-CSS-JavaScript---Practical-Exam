@@ -24,6 +24,12 @@ Logo slides in from right.
 Replay button fades in. (When this button is click, it will replay the animation. Note: only the banner will refresh, not the whole web page)
 
 **Responsiveness**
+
+
 Desktop: Yes
+
+
 Tablet: No
+
+
 Mobile: No
